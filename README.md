@@ -19,15 +19,15 @@
         <td>Nikki</td>
         <td>$300,365</td>
       </tr>
-      <tr class="silver">
+      <tr class="sliver">
         <td>2</td>
-        <td>Cris</td>
-        <td>$4,621</td>
+        <td>Lil Lou</td>
+        <td>$6,750</td>
       </tr>
       <tr class="bronze">
         <td>3</td>
-        <td>Lil Lou</td>
-        <td>$3,750</td>
+        <td>Cris</td>
+        <td>$4,621</td>
       </tr>
       <tr>
         <td>4</td>
