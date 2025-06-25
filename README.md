@@ -22,7 +22,7 @@
       <tr class="sliver">
         <td>2</td>
         <td>Lil Lou</td>
-        <td>$10,750</td>
+        <td>$10,263</td>
       </tr>
       <tr class="bronze">
         <td>3</td>
