@@ -32,7 +32,7 @@
       <tr>
         <td>4</td>
         <td>Ben</td>
-        <td>$1,880</td>
+        <td>$3,171</td>
       </tr>
       <tr>
         <td>5</td>
