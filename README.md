@@ -17,7 +17,7 @@
       <tr class="gold">
         <td>1</td>
         <td>Lil Lou</td></td>
-        <td>$335,000</td>
+        <td>$2,670,000</td>
       </tr>
       <tr class="sliver">
         <td>2</td>
