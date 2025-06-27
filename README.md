@@ -16,23 +16,23 @@
     <tbody>
       <tr class="gold">
         <td>1</td>
-        <td>Nikki</td>
-        <td>$300,365</td>
+        <td>Lil Lou</td></td>
+        <td>$335,000</td>
       </tr>
       <tr class="sliver">
         <td>2</td>
-        <td>Lil Lou</td>
-        <td>$10,263</td>
+        <td>Nikki</td>
+        <td>$300,365</td>
       </tr>
       <tr class="bronze">
         <td>3</td>
-        <td>Cris</td>
-        <td>$4,621</td>
+        <td>Ben</td>
+        <td>$5,071</td>
       </tr>
       <tr>
         <td>4</td>
-        <td>Ben</td>
-        <td>$3,171</td>
+        <td>Cris</td>
+        <td>$4,501</td>
       </tr>
       <tr>
         <td>5</td>
